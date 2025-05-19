@@ -1,6 +1,6 @@
 #  CloudVault – Secure Django-Based File Storage and Sharing System 🔐 
 
-**CloudVault** is a feature-rich cloud storage platform built using **Django**, **MySQL**, and **HTML/CSS/JS**, designed to offer secure and intuitive file storage, sharing, and vault management capabilities – all under a modern UI.
+**CloudVault** is a feature-rich cloud storage platform built using **Django**, **MySQL**, and **HTML/CSS/JS**, designed to offer secure and intuitive file storage, sharing, and vault  management capabilities – all under a modern UI.
 
 Whether you're looking to back up files, share them with others, or store confidential files in a protected vault, CloudVault brings the experience of a personal Google Drive with added privacy.
 
