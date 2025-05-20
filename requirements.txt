@@ -6,5 +6,5 @@ cryptography
 pycparser
 sqlparse
 typing_extensions
-tzdata
+tzdata 
 setuptools
